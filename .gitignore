@@ -1,2 +1,7 @@
 .venv
 __pycache__
+media/images
+media/Tex
+media/texts
+*.mp4
+*partial*
